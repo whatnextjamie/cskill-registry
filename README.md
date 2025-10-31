@@ -1,6 +1,6 @@
-# Claude Skill Manager Registry
+# cskill Registry
 
-The official package registry for [Claude Skill Manager](https://github.com/whatnextjamie/claude-skill-manager).
+The official package registry for [cskill](https://github.com/whatnextjamie/cskill).
 
 ## What is this?
 
@@ -118,7 +118,7 @@ See [stripe-webhook-skills](https://github.com/whatnextjamie/stripe-webhook-skil
 
 ## Questions?
 
-Open an issue on the [Claude Skill Manager repository](https://github.com/whatnextjamie/claude-skill-manager).
+Open an issue on the [cskill repository](https://github.com/whatnextjamie/cskill).
 
 ---
 

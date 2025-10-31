@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/whatnextjamie/claude-skill-manager/main/schema/registry-index.schema.json",
+  "$schema": "https://raw.githubusercontent.com/whatnextjamie/cskill/main/schema/registry-index.schema.json",
   "version": "1.0.0",
   "updated": "2025-10-31T18:56:25.265Z",
   "packages": [
