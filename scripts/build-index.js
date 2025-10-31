@@ -75,7 +75,7 @@ async function buildIndex() {
 
   // Build index
   const index = {
-    "$schema": "https://raw.githubusercontent.com/whatnextjamie/claude-skill-manager/main/schema/registry-index.schema.json",
+    "$schema": "https://raw.githubusercontent.com/whatnextjamie/cskill/main/schema/registry-index.schema.json",
     "version": "1.0.0",
     "updated": new Date().toISOString(),
     "packages": packages

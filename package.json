@@ -1,7 +1,7 @@
 {
-  "name": "claude-skill-manager-registry",
+  "name": "cskill-registry",
   "version": "1.0.0",
-  "description": "Community registry for Claude Skill Manager packages",
+  "description": "Community registry for cskill packages",
   "private": true,
   "scripts": {
     "build": "node scripts/build-index.js",
