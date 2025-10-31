@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    {
+      "url": "https://github.com/whatnextjamie/stripe-webhook-skills.git",
+      "branch": "main"
+    }
+  ]
+}
