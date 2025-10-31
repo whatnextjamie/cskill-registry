@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jamiethompson/spm/main/schema/registry-index.schema.json",
+  "$schema": "https://raw.githubusercontent.com/whatnextjamie/claude-skill-manager/main/schema/registry-index.schema.json",
   "version": "1.0.0",
   "updated": "2025-10-30T00:00:00Z",
   "packages": [
@@ -8,7 +8,7 @@
       "version": "1.0.1",
       "description": "Expert Stripe webhook debugging and code generation skills for Claude Code",
       "author": "Jamie Thompson",
-      "repository": "https://github.com/jamiethompson/stripe-webhook-skills.git",
+      "repository": "https://github.com/whatnextjamie/stripe-webhook-skills.git",
       "keywords": [
         "stripe",
         "webhooks",
