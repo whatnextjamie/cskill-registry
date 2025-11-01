@@ -8,7 +8,7 @@ This repository hosts the canonical index.json file — the single source of tru
 1. Fork this repo
 2. Add your package to index.json
 3. Submit a pull request
-4. Once merged, your skill becomes discoverable via cskill search
+4. Once merged, your skill becomes discoverable via `cskill search`
 
 ## How to Add Your Package
 
