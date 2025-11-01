@@ -1,6 +1,6 @@
 # cskill-registry
 
-The cskill-registry is the public, community-maintained registry that powers package discovery for the [cskill](https://github.com/whatnextjamie/cskill) ecosystem. It serves as the index of all published Claude Code skill packages, enabling the `cskill search` command to surface available skills.
+cskill-registry is the public, community-maintained registry that powers package discovery for the [cskill](https://github.com/whatnextjamie/cskill) ecosystem. It serves as the index of all published Claude Code skill packages, enabling the `cskill search` command to surface available skills.
 
 This repository hosts the canonical index.json file — the single source of truth for all registered packages. Contributors can submit pull requests to add or update entries, and each approved change automatically rebuilds and commits the registry index.
 
