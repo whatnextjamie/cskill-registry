@@ -2,17 +2,15 @@
 
 cskill-registry is the public, community-maintained registry that powers package discovery for the [cskill](https://github.com/whatnextjamie/cskill) ecosystem. It serves as the index of all published Claude Code skill packages, enabling the `cskill search` command to surface available skills.
 
-This repository hosts the canonical index.json file — the single source of truth for all registered packages. Contributors can submit pull requests to add or update entries, and each approved change automatically rebuilds and commits the registry index.
+This repository hosts the canonical `index.json` file — the auto-generated single source of truth for all registered packages. Contributors can submit pull requests to add or update entries, and each approved change automatically rebuilds and commits the registry index.
 
-### Example workflow:
+Example workflow:
 1. Fork this repo
-2. Add your package to index.json
+2. Add your package to `repositories.json`
 3. Submit a pull request
 4. Once merged, your skill becomes discoverable via `cskill search`
 
 ## How to Add Your Package
-
-**Simple:** Just submit a PR adding your repository to `repositories.json`
 
 ### Step 1: Publish Your Skill Package
 
